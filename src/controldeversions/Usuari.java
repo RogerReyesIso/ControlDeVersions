@@ -49,5 +49,9 @@ public class Usuari {
     public void calculaEdat(){
         
     }
+    
+    public void afegirUsuari(){
+        
+    }
 
 }
