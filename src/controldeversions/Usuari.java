@@ -45,5 +45,9 @@ public class Usuari {
     public void setDataAlta(String dataAlta) {
         this.dataAlta = dataAlta;
     }
+    
+    public void calculaEdat(){
+        
+    }
 
 }
