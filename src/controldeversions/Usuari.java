@@ -60,12 +60,6 @@ public class Usuari {
     
     public void fantasma(){
         
-        int num1 = 0;
-        String nom = "";
-        
-        num1 = 4*11*5;
-        
-        nom = "Roger";
     }
 
 }
