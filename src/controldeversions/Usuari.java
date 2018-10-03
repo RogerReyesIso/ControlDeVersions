@@ -63,7 +63,7 @@ public class Usuari {
         int num1 = 0;
         String nom = "";
         
-        num1 = 4*5;
+        num1 = 4*11*5;
         
         nom = "Roger";
     }
