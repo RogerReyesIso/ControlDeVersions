@@ -57,5 +57,9 @@ public class Usuari {
     public void eliminarUsuari(){
         
     }
+    
+    public void fantasma(){
+        
+    }
 
 }
