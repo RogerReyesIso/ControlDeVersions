@@ -53,5 +53,9 @@ public class Usuari {
     public void afegirUsuari(){
         
     }
+    
+    public void eliminarUsuari(){
+        
+    }
 
 }
